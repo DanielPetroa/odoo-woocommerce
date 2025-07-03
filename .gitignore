@@ -81,3 +81,7 @@ deploy/production.conf
 # Temporary files
 *.tmp
 *.temp
+
+# credenciales
+juanda-ecdsa
+aquafitguest-ecdsa
